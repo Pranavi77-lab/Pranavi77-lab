@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science Engineering Student | Developer | Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+My+Digital+Space+🚀;Computer+Science+Engineering+Student;Building+Projects+with+Code+%26+Creativity" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Welcome+to+My+Digital+Space;Computer+Science+Engineering+Student;Building+Projects+with+Code+%26+Creativity" />
 
 </div>
 

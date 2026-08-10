@@ -109,8 +109,7 @@ Bachelor of Technology — Computer Science Engineering
 ## 📊 Most Used Languages
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavi77-lab&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranavi77-lab&theme=tokyonight" />
 
 </div>
 

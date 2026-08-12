@@ -99,8 +99,7 @@ Bachelor of Technology — Computer Science Engineering
 <img src="https://github-stats-extended.vercel.app/api?username=Pranavi77-lab&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavi77-lab&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.vercel.app/?user=Pranavi77-lab&theme=tokyonight&hide_border=true" />
 
 </div>
 
